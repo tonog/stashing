@@ -1,0 +1,9 @@
+computer.lnk*
+desktop.ini
+evidencija/
+Git Bash.lnk*
+git_bezveze/
+Hello_world/
+prezentacije/
+stashing/
+Tomislav Nogić Evidencija o radnom vremenu - Rujan 2018.xls
