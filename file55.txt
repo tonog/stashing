@@ -1,0 +1,25 @@
+/c/Users/enogtom/Desktop/stashing
+aaaaaaaaaaaaaa
+bbbbbbbbbbbbbb
+____??????????
+c
+d
+__________________
+total 11
+drwxr-xr-x 1 enogtom 1049089  0 Sep 17 11:33 ./
+drwxr-xr-x 1 enogtom 1049089  0 Sep 17 10:41 ../
+drwxr-xr-x 1 enogtom 1049089  0 Sep 17 11:32 .git/
+-rw-r--r-- 1 enogtom 1049089 48 Sep 17 11:24 file1.txt
+-rw-r--r-- 1 enogtom 1049089 26 Sep 17 11:24 file2.txt
+-rw-r--r-- 1 enogtom 1049089  0 Sep 17 11:33 file4.txt
+-rw-r--r-- 1 enogtom 1049089 10 Sep 17 10:42 README.md
+computer.lnk*
+desktop.ini
+evidencija/
+Git Bash.lnk*
+git_bezveze/
+Hello_world/
+prezentacije/
+stashing/
+Tomislav Nogić Evidencija o radnom vremenu - Rujan 2018.xls
+#STASHING
